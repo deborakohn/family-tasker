@@ -1,10 +1,10 @@
-# Home Colab
+# FamSync
 
 Aplicativo mobile para organizacao familiar com tarefas, agenda e colaboracao entre membros da casa.
 
 ## Visao Geral
 
-O Home Colab foi construido com React Native + Expo e usa Supabase como backend.
+O FamSync foi construido com React Native + Expo e usa Supabase como backend.
 
 No app, a familia pode:
 - Criar ou entrar em um grupo familiar por codigo.
